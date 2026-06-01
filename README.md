@@ -9,6 +9,10 @@ Dawid Gburczyk
 - multithreading
 - documentation
 
+Mikołaj Kostrzewa
+- tests
+- documentation
+
 ## Description
 
 Client-server application using:
