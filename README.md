@@ -13,6 +13,12 @@ Mikołaj Kostrzewa
 - tests
 - documentation
 
+Dawid Stępień
+-Models
+-Repository initialization and data management
+-Object serialization support
+-tests
+
 ## Description
 
 Client-server application using:
