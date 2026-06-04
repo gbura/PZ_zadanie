@@ -13,6 +13,12 @@ Mikołaj Kostrzewa
 - tests
 - documentation
 
+Maksymilian Żyliński
+- collaborated with the team to understand project requirements and scope
+- ran e2e tests
+- overseed the development process
+- conducted code review
+
 ## Description
 
 Client-server application using:
