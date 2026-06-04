@@ -14,10 +14,17 @@ Mikołaj Kostrzewa
 - documentation
 
 Maksymilian Żyliński
+- server
 - collaborated with the team to understand project requirements and scope
 - ran e2e tests
 - overseed the development process
 - conducted code review
+
+Dawid Stępień
+- models
+- repository initialization and data management
+- object serialization support
+- tests
 
 ## Description
 
